@@ -1,0 +1,17 @@
+# Binaries
+sprint9-final
+sprint9-final.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and coverage artifacts
+*.test
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
